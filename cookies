@@ -3,6 +3,6 @@ steamgifts.com:
     
     _session_id: !ruby/object:Mechanize::Cookie
       name: PHPSESSID
-      value: 429gb6kdail1tpvgo2j5q34t4mpdudgi718nohui1tb3o7ognp820bri9d5oi855115jusdekqduieigi7goib4a4jm5ttk30pcuvv1
+      value: your PHPSESSID here
       domain: .steamgifts.com
       path: /
