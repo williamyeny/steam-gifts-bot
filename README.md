@@ -1,6 +1,10 @@
-# How to
+# Steamgifts Bot
 
-You need Ruby installed. For Mac it's preinstalled but if you're on Windows or Linux you need to download it.
+A proof of concept which automatically enters in giveaways at [steamgifts.com](https://www.steamgifts.com). Keep in mind that this has not been updated or even tested for years, so it may not be functional.
+
+# Installing and Running
+
+You need Ruby installed. For Mac, it's preinstalled but if you're on Windows or Linux you need to download it.
 
 Next, in Google Chrome, sign in to steamgifts.com. Then, go to 
 
